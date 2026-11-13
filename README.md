@@ -1,7 +1,5 @@
 # Assistente Inteligente de Agendamento e Zeladoria de Agenda
 
----
-
 ## 👥 Integrantes
 
 RM550219 - Arthur Baldissera
