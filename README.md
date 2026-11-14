@@ -1,13 +1,11 @@
 # Assistente Inteligente de Agendamento e Zeladoria de Agenda
 
----
-
 ## 👥 Integrantes
 
-RM550219 - Arthur Baldissera
-RM97937 - Pedro Barros
-RM550166 - Ricardo Vergani
-RM551649 - Victor Kenzo
+- RM550219 | Arthur Baldissera
+- RM97937 | Pedro Barros
+- RM550166 | Ricardo Vergani
+- RM551649 | Victor Kenzo
 
 ---
 
